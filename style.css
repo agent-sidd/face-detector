@@ -1,4 +1,3 @@
-
 body{
     padding: 0;
     margin: 0;
@@ -7,12 +6,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgb(9, 9, 26);
+    background: #0a192f;
 }
-/*video{
-    
-    border: 4px solid rgb(243, 7, 7);
-}*/
+h1{
+    color: #ccd6f6;
+    text-align: center;
+}
 canvas{
-    position: absolute;
+    border: 6px solid #64ffda;
 }
